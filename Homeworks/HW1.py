@@ -10,4 +10,4 @@ newlist=[i*2 for i in list]
 print(newlist)
 
 for x in newlist:
-    print(type(x))
+    print(type(x)) 
