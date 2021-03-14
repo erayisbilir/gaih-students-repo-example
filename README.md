@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
-**Course Date:** 11.01.1996 
+**Course Date:** 12.03.2021 
 **Name:** Ezgi Naz 
 **Surname:** Tekin 
 **Email:** ezginaztekin11@gmail.com  
