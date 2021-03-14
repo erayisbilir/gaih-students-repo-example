@@ -9,7 +9,7 @@ namepassing= name["midterm"]*(0.3)+name["project"]*(0.3)+name["final"]*(0.4)
 print(name)
 print(namepassing)
 
-#giving first student and grades
+#giving second student and grades
 name1=input("Please give the name of student:")
 midterm1=input("Please give the midterm grade:")
 project1=input("Please give the project grade:")
@@ -20,7 +20,7 @@ namepassing1= name1["midterm"]*(0.3)+name1["project"]*(0.3)+name1["final"]*(0.4)
 print(name1)
 print(namepassing1)
 
-#giving second student and grades
+#giving third student and grades
 name2=input("Please give the name of student:")
 midterm2=input("Please give the midterm grade:")
 project2=input("Please give the project grade:")
@@ -31,7 +31,7 @@ namepassing2= name2["midterm"]*(0.3)+name2["project"]*(0.3)+name2["final"]*(0.4)
 print(name2)
 print(namepassing2)
 
-#giving third student and grades
+#giving fourth student and grades
 name3=input("Please give the name of student:")
 midterm3=input("Please give the midterm grade:")
 project3=input("Please give the project grade:")
