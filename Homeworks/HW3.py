@@ -51,7 +51,7 @@ final4=input("Please give the final grade:")
 name4={"midterm":int(midterm4),"project": int(project4),"final":int(final4)}
 namepassing4= name4["midterm"]*(0.3)+name4["project"]*(0.3)+name4["final"]*(0.4)
 print(name4)
-print("passingGrade",namepassing4)
+print("passingGrade:",namepassing4)
 
 #list of all passinggrades
 list=[namepassing,namepassing1,namepassing2,namepassing3,namepassing4]
